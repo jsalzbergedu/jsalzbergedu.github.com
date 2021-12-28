@@ -7,21 +7,21 @@
 <div class="centered">NCSU Senior and Undergraduate Researcher</div>
 #+END_EXPORT
 
-Hello everyone! My name is Jacob Salzberg. I am a CSC Senior at NCSU interested in
-Programming Languages, Type Theory, and Algorithm Complexity.
+Hello everyone! My name is Jacob Salzberg. I am currently a first year PhD student in CS under Professor Thomas Wies ([[https://cs.nyu.edu/~wies/][link]]).
 
-I am starting a blog here to talk about cooking, baking, programming, and student life.
-
-Before you see my blog posts, you may want to view my three picture introduction:
+And below is my three picture introduction:
 
 #+ATTR_HTML: :border 0 :rules none
-|---------------------------+----------------------------------------|
-| [[./photos/meandfriends.jpg]] | Me (center left) and some friends      |
-| [[./photos/ncsu.png]]         | The source of all my joy and suffering |
-| [[./photos/doggo.jpg]]        | My Dog, Brownie                        |
+|------------------------+----------------------------------------------------------------------------|
+| [[./photos/stategrad.jpg]] | Graduating from my Alma Mater, NC State                                    |
+| [[./photos/torch.png]]     | The place at which I am currently a PhD student                            |
+| [[./photos/dhj.jpg]]       | Divyam, Haseeb and I -- old study group for 2021's [[https://cs.nyu.edu/home/phd/algorithms_exams.html][Honors Algorithms final]] |
 
+
+#+BEGIN_COMMENT
 - [[file:projects.org][Selected Projects]]
 #+INCLUDE: postlist.org :lines "4-" :only-contents t
+#+END_COMMENT
 
 #+BEGIN_EXPORT html
       <p class="centered">
