@@ -4,7 +4,7 @@
 #+email: jssalzbe@ncsu.edu
 #+SETUPFILE: ../org-template/style.org
 #+BEGIN_EXPORT html
-<div class="centered">NCSU Senior and Undergraduate Researcher</div>
+<div class="centered">NYU First Year PhD</div>
 #+END_EXPORT
 
 Hello everyone! My name is Jacob Salzberg. I am currently a first year PhD student in CS under Professor Thomas Wies ([[https://cs.nyu.edu/~wies/][link]]).
@@ -25,11 +25,11 @@ And below is my three picture introduction:
 
 #+BEGIN_EXPORT html
       <p class="centered">
-        <a href="https://jsalzbergedu.github.io/photos/resume.pdf">Resume</a>
+        <a href="https://jsalzbergedu.github.io/photos/resume2022.pdf">Resume</a>
         |
         <a href="https://www.github.com/jsalzbergedu">Github</a>
         |
-        <a href="mailto:jssalzbe@ncsu.edu">Email</a>
+        <a href="mailto:jss9879@nyu.edu">Email</a>
         |
         <a href="tel:1-910-583-0058">(910) 583 0058</a>
       </p>
