@@ -25,7 +25,7 @@ And below is my three picture introduction:
 
 #+BEGIN_EXPORT html
       <p class="centered">
-        <a href="https://jsalzbergedu.github.io/photos/resume2022.pdf">Resume</a>
+        <a href="https://jsalzbergedu.github.io/photos/Resume2022.pdf">Resume</a>
         |
         <a href="https://www.github.com/jsalzbergedu">Github</a>
         |
